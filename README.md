@@ -1,16 +1,25 @@
 # 👋 Hi, I'm **Sherif Shawky**  
 
-<!--
-**SherifShawky01/SherifShawky01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 **Contact Me**  
+📧 [Email](mailto:Yousef20402@fci.bu.edu.eg)  
+🔗 [LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📊 **GitHub Statistics**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical)  
+
+---
+
+## 🎯 **Future Goals**  
+✅ **Contribute to Open-Source AI Projects**  
+✅ **Develop AI Solutions for Healthcare & Finance**  
+✅ **Master Advanced Algorithms & Data Structures**  
+✅ **Specialize in AI Cloud Deployments & Edge Computing**  
+
+---
+
+**🚀 If you find my projects useful, don't forget to give them a ⭐!**
