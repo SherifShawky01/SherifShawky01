@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Sherif Shawky**  
 
-
-
 ---
 
 ## 📬 **Contact Me**  
