@@ -7,8 +7,8 @@
 ---
 
 ## 📬 **Contact Me**  
-📧 [Email](mailto:Yousef20402@fci.bu.edu.eg)  
-🔗 [LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/)  
+📧 [Email](mailto:sherifshawky001@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sherif-aboghazala/)  
 
 ---
 ## 📊 **GitHub Statistics**  
