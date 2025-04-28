@@ -6,7 +6,7 @@
 
 ## 📬 **Contact Me**  
 📧 [Email](mailto:sherifshawky001@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sherif-aboghazala/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sherif-shawky01/)  
 
 ---
 ## 📊 **GitHub Statistics**  
